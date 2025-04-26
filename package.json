@@ -1,0 +1,8 @@
+{
+  "name": "slack-functions",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@slack/web-api": "^6.10.0"
+  }
+}
