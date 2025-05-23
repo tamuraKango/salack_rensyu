@@ -1,4 +1,3 @@
 [build]
   command = "npm run build"
   functions = "dist/api"
-  publish = "public" # or whatever directory you serve static files from
