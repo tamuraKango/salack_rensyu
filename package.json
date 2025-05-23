@@ -5,4 +5,7 @@
   "dependencies": {
     "@slack/web-api": "^6.10.0"
   }
+  "scripts": {
+    "build": "netlify-lambda build resources/api"
+  }
 }
